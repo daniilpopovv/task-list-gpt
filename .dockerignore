@@ -1,0 +1,11 @@
+README.md
+.idea
+.gitignore
+
+.dockerignore
+Dockerfile
+docker-compose.yaml
+
+node_modules
+npm-debug.log
+yarn-error.log
